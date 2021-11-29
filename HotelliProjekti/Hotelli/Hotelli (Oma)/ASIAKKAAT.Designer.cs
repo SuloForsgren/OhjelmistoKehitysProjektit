@@ -119,7 +119,7 @@ namespace Hotelli__Oma_
             // EMAILTB
             // 
             this.EMAILTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.EMAILTB.Location = new System.Drawing.Point(531, 146);
+            this.EMAILTB.Location = new System.Drawing.Point(531, 96);
             this.EMAILTB.Name = "EMAILTB";
             this.EMAILTB.Size = new System.Drawing.Size(100, 31);
             this.EMAILTB.TabIndex = 11;
@@ -127,7 +127,7 @@ namespace Hotelli__Oma_
             // PUHTB
             // 
             this.PUHTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PUHTB.Location = new System.Drawing.Point(531, 88);
+            this.PUHTB.Location = new System.Drawing.Point(531, 38);
             this.PUHTB.Name = "PUHTB";
             this.PUHTB.Size = new System.Drawing.Size(100, 31);
             this.PUHTB.TabIndex = 10;
@@ -137,7 +137,7 @@ namespace Hotelli__Oma_
             this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.Color.Red;
             this.label5.Font = new System.Drawing.Font("Mistral", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(443, 150);
+            this.label5.Location = new System.Drawing.Point(443, 100);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(82, 26);
             this.label5.TabIndex = 8;
@@ -148,7 +148,7 @@ namespace Hotelli__Oma_
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Red;
             this.label6.Font = new System.Drawing.Font("Mistral", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(409, 91);
+            this.label6.Location = new System.Drawing.Point(409, 41);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(116, 26);
             this.label6.TabIndex = 7;

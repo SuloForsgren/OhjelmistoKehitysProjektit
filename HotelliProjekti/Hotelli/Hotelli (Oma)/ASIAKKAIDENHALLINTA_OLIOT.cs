@@ -12,6 +12,7 @@ namespace Hotelli__Oma_
     {
         YHDISTA yhteys = new YHDISTA();
 
+        //Asiakkaan lisäys hotelliin
         public bool lisaaAsiakas(String enimi, String snimi, String puh, String email)
         {
             MySqlCommand komento = new MySqlCommand();
@@ -36,6 +37,7 @@ namespace Hotelli__Oma_
                 return false;
             }
         }
+            // Asiakkaiden hakeminen tauluihin
             public DataTable haeAsiakkaat()
             {
                 MySqlCommand komero = new MySqlCommand("SELECT oid, Etunimi, Sukunimi, Puhelinnumero, sähköposti FROM Asujat", yhteys.otaYhteys());
@@ -47,6 +49,8 @@ namespace Hotelli__Oma_
 
                 return taulu;
             }
+
+        //Asiakkaiden poistaminen tietokannasta
         public bool poistaAsiakas(String ktunnus)
         {
             MySqlCommand komentollo = new MySqlCommand();
@@ -69,6 +73,7 @@ namespace Hotelli__Oma_
             }
         }
 
+        //Asiakkaiden tietojen muokkaus
         public bool muokkaaAsiakasta(int oid, String enimi, String snimi, String puh, String email)
         {
             MySqlCommand komento = new MySqlCommand();

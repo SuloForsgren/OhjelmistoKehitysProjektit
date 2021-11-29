@@ -49,6 +49,7 @@ namespace Hotelli__Oma_
 
         }
 
+        //Piilotetaan pääikkuna ja avataan kirjautumisikkuna
         private void Kirjaudu_ulosBT_Click(object sender, EventArgs e)
         {
             this.Hide();

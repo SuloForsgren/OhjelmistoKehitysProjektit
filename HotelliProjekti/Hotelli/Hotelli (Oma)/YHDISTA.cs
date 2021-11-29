@@ -12,7 +12,6 @@ namespace Hotelli__Oma_
 {
     class YHDISTA
     {
-        //Database pitää vaihtaa tein oman kun testailin
         private MySqlConnection yhteys = new MySqlConnection("datasource=localhost; port=3306;username=root;password=;database=Kirjautuminen;");
 
         public MySqlConnection otaYhteys()

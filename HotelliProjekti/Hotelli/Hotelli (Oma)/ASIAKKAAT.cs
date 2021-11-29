@@ -19,7 +19,7 @@ namespace Hotelli__Oma_
         {
             InitializeComponent();
         }
-
+        // Haetaan asiakkaat heti ikkunan avauduttua
         private void ASIAKKAAT_Load(object sender, EventArgs e)
         {
             TietoboksiDG.DataSource = asiakas.haeAsiakkaat();
@@ -29,7 +29,7 @@ namespace Hotelli__Oma_
         {
 
         }
-
+        // Viedään tiedot niille kuuluville paikoille kun painetaan cellistä
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
             IDTB.Text = TietoboksiDG.CurrentRow.Cells[0].Value.ToString();
@@ -39,6 +39,7 @@ namespace Hotelli__Oma_
             EMAILTB.Text = TietoboksiDG.CurrentRow.Cells[4].Value.ToString();
         }
 
+        //Tyhjennetään kaikki tiedot kentistä
         private void Tyhjenna_Click(object sender, EventArgs e)
         {
             ETTB.Text = "";
@@ -49,6 +50,7 @@ namespace Hotelli__Oma_
             TietoboksiDG.DataSource = asiakas.haeAsiakkaat();
         }
 
+        // Lisäys napin toiminnot eli lisätään asiakas ja hänen tiedot
         private void LisaaBT_Click(object sender, EventArgs e)
         {
             String enimi = ETTB.Text;
@@ -76,6 +78,7 @@ namespace Hotelli__Oma_
             TietoboksiDG.DataSource = asiakas.haeAsiakkaat();
         }
 
+        //Päivitetään asiakkaan tietoja
         private void PaivitysBT_Click(object sender, EventArgs e)
         {
             String enimi = ETTB.Text;
@@ -93,16 +96,16 @@ namespace Hotelli__Oma_
                 Boolean lisaaAsiakas = asiakas.muokkaaAsiakasta(oid, enimi, snimi, puhelin, email);
                 if (lisaaAsiakas)
                 {
-                    MessageBox.Show("Opiskelija päivitetty onnistuneesti", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Asiakkaan tiedot päivitetty onnistuneesti", "Asiakkaan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
                 else
                 {
-                    MessageBox.Show("Opiskelijaa ei pystytty päivittämään", "Opiskelijan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Asiakkaan tietoja ei pystytty päivittämään", "Asiakkaan päivitys", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
             }
             TietoboksiDG.DataSource = asiakas.haeAsiakkaat();
         }
-
+        // Poistetaan asiakkaan tiedot
         private void PoistaBT_Click(object sender, EventArgs e)
         {
             String ktunnus = IDTB.Text;
