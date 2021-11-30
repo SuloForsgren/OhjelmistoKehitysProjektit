@@ -1,0 +1,56 @@
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\Hotelli (Oma).pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\MySql.Data.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\Google.Protobuf.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\ZstdNet.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\System.Memory.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\System.Buffers.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\bin\Debug\MySql.Data.xml
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.AssemblyReference.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe.config
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.KirjautuminenForm.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.Properties.Resources.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.GenerateResource.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CopyComplete
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli (Oma).pdb
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.PaisaikkunaFM.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.ASIAKKAAT.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.HUONEET.resources
+C:\Users\sulof\source\Ohjelmointi\Ohjelmistokehittajana-toimiminen\Ohjelmistokehittajana-toimiminen\Hotelli\Hotelli (Oma)\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.VARAUKSET.resources
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe.config
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).pdb
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\MySql.Data.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\Google.Protobuf.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\ZstdNet.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\System.Memory.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\System.Buffers.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\bin\Debug\MySql.Data.xml
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.AssemblyReference.cache
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe.config
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.ASIAKKAAT.resources
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.KirjautuminenForm.resources
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.PaisaikkunaFM.resources
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.HUONEET.resources
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.Properties.Resources.resources
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.VARAUKSET.resources
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.GenerateResource.cache
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CoreCompileInputs.cache
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CopyComplete
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe
+C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).pdb
