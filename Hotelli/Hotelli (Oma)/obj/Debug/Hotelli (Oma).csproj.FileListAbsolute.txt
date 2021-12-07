@@ -54,3 +54,70 @@ C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\Ohjel
 C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CopyComplete
 C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe
 C:\Users\sulof\source\Projektit\OhjelmistoKehitysProjektit\HotelliProjekti\OhjelmistoKehitysProjektit\HotelliProjekti\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).pdb
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe.config
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).pdb
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\MySql.Data.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Google.Protobuf.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\ZstdNet.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\BouncyCastle.Crypto.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Ubiety.Dns.Core.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\System.Memory.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\System.Buffers.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Hash.xxHash.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\System.Numerics.Vectors.dll
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\MySql.Data.xml
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.AssemblyReference.cache
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe.config
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.ASIAKKAAT.resources
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.KirjautuminenForm.resources
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.PaisaikkunaFM.resources
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.HUONEET.resources
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.Properties.Resources.resources
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.VARAUKSET.resources
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.GenerateResource.cache
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CoreCompileInputs.cache
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CopyComplete
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe
+F:\Hotelli backup\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).pdb
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe.config
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Hotelli (Oma).exe
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\MySql.Data.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Google.Protobuf.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\ZstdNet.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\BouncyCastle.Crypto.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\Ubiety.Dns.Core.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\System.Memory.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\System.Buffers.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Compression.LZ4.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\K4os.Hash.xxHash.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\System.Numerics.Vectors.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\bin\Debug\MySql.Data.xml
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.AssemblyReference.cache
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe.config
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.ASIAKKAAT.resources
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.KirjautuminenForm.resources
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.PaisaikkunaFM.resources
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.HUONEET.resources
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.Properties.Resources.resources
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli__Oma_.VARAUKSET.resources
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.GenerateResource.cache
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CoreCompileInputs.cache
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).csproj.CopyComplete
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).exe
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Hotelli (Oma).pdb
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\MySql.Data.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Google.Protobuf.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\ZstdNet.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\K4os.Compression.LZ4.Streams.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\BouncyCastle.Crypto.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\Ubiety.Dns.Core.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\System.Memory.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\System.Buffers.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\K4os.Compression.LZ4.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\K4os.Hash.xxHash.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\System.Numerics.Vectors.dll
+F:\HOtellå0ij9u\OhjelmistoKehitysProjektit\Hotelli\Hotelli (Oma)\obj\Debug\MySql.Data.xml

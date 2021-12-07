@@ -101,6 +101,7 @@ namespace Hotelli__Oma_
             this.PUHTB.Name = "PUHTB";
             this.PUHTB.Size = new System.Drawing.Size(121, 31);
             this.PUHTB.TabIndex = 25;
+            this.PUHTB.TextChanged += new System.EventHandler(this.PUHTB_TextChanged);
             // 
             // label6
             // 
@@ -153,6 +154,7 @@ namespace Hotelli__Oma_
             this.HuoneetDG.Size = new System.Drawing.Size(577, 168);
             this.HuoneetDG.TabIndex = 16;
             this.HuoneetDG.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.HuoneetDG_CellClick);
+            this.HuoneetDG.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.HuoneetDG_CellContentClick);
             // 
             // HuonetyyppiCB
             // 
@@ -211,6 +213,7 @@ namespace Hotelli__Oma_
             this.KylläRBT.TabStop = true;
             this.KylläRBT.Text = "Kyllä";
             this.KylläRBT.UseVisualStyleBackColor = true;
+            this.KylläRBT.CheckedChanged += new System.EventHandler(this.KylläRBT_CheckedChanged);
             // 
             // HuonetyyppinumeroTB
             // 

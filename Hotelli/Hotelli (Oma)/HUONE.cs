@@ -25,6 +25,35 @@ namespace Hotelli__Oma_
 
             return taulu;
         }
+        //Haetaan huoneet tyypin mukaan
+        public DataTable huoneTyypinMukaan(int tyyppi)
+        {
+            MySqlCommand komero = new MySqlCommand("SELECT * FROM `huoneet` WHERE `tyyppi`=@tyy AND vapaa='Kyllä'", yhteys.otaYhteys());
+            MySqlDataAdapter adapteri = new MySqlDataAdapter();
+            DataTable taulu = new DataTable();
+
+            komero.Parameters.Add("@tyy", MySqlDbType.Int32).Value = tyyppi;
+
+            adapteri.SelectCommand = komero;
+            adapteri.Fill(taulu);
+
+            return taulu;
+        }
+        //Tarkistetaan ja haetaan huoneen tyyppi
+        public int haeHuoneenTyyppi(int numero)
+        {
+            MySqlCommand komero = new MySqlCommand("SELECT `tyyppi` FROM `huoneet` WHERE `numero`=@num", yhteys.otaYhteys());
+            MySqlDataAdapter adapteri = new MySqlDataAdapter();
+            DataTable taulu = new DataTable();
+
+            komero.Parameters.Add("@num", MySqlDbType.Int32).Value = numero;
+
+            adapteri.SelectCommand = komero;
+            adapteri.Fill(taulu);
+
+            return Convert.ToInt32(taulu.Rows[0][0].ToString());
+        }
+
         //Tehdään uusi funktio jonka avulla syötämme UUDET tiedot tietokantaan
         public bool lisaaHuone(int numero, int tyyppi, String puh, String vapaa)
         {
@@ -109,5 +138,48 @@ namespace Hotelli__Oma_
                 return false;
             }
         }
+        //Funktio jolla tarkistetaan onko huone vapaa
+        public bool huoneVapaa(int numero, String Kyllä_tai_ei)
+        {
+            MySqlCommand komero = new MySqlCommand("UPDATE `huoneet` SET `vapaa`=@Kyllä_Ei WHERE `numero`=@num;", yhteys.otaYhteys());
+            MySqlDataAdapter adapteri = new MySqlDataAdapter();
+            DataTable taulu = new DataTable();
+
+            komero.Parameters.Add("@num", MySqlDbType.Int32).Value = numero;
+            komero.Parameters.Add("@Kyllä_Ei", MySqlDbType.VarChar).Value = Kyllä_tai_ei;
+
+            yhteys.avaaYhteys();
+            if (komero.ExecuteNonQuery() == 1)
+            {
+                yhteys.suljeYhteys();
+                return true;
+            }
+            else
+            {
+                yhteys.suljeYhteys();
+                return false;
+            }
+        }
+
+        /*public bool huoneVapaa(int numero)
+        {
+            MySqlCommand komero = new MySqlCommand("UPDATE `huoneet` SET `vapaa`= 'Ei' WHERE `numero`=@num;", yhteys.otaYhteys());
+            MySqlDataAdapter adapteri = new MySqlDataAdapter();
+            DataTable taulu = new DataTable();
+
+            komero.Parameters.Add("@num", MySqlDbType.Int32).Value = numero;
+
+            yhteys.avaaYhteys();
+            if (komero.ExecuteNonQuery() == 1)
+            {
+                yhteys.suljeYhteys();
+                return true;
+            }
+            else
+            {
+                yhteys.suljeYhteys();
+                return false;
+            }
+        }*/
     }
 }

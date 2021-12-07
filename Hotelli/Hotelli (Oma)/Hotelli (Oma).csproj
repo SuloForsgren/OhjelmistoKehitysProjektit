@@ -18,7 +18,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>bin\Debug\</OutputPath>
+    <OutputPath>obj\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -81,6 +81,7 @@
     <Compile Include="VARAUKSET.Designer.cs">
       <DependentUpon>VARAUKSET.cs</DependentUpon>
     </Compile>
+    <Compile Include="VARAUS.cs" />
     <Compile Include="YHDISTA.cs" />
     <EmbeddedResource Include="ASIAKKAAT.resx">
       <DependentUpon>ASIAKKAAT.cs</DependentUpon>

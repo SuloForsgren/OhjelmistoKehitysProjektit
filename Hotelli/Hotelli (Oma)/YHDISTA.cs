@@ -12,7 +12,8 @@ namespace Hotelli__Oma_
 {
     class YHDISTA
     {
-        private MySqlConnection yhteys = new MySqlConnection("datasource=localhost; port=3306;username=root;password=;database=Kirjautuminen;");
+        //Lisätty yhteyden loppuun tuo zero datatime=True korjasi ongelman varaus lomakkeessa
+        private MySqlConnection yhteys = new MySqlConnection("datasource=localhost; port=3306;username=root;password=;database=Kirjautuminen;convert zero datetime=True");
 
         public MySqlConnection otaYhteys()
         {

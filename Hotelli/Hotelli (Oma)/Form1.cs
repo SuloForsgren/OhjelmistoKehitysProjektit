@@ -16,6 +16,7 @@ namespace Hotelli__Oma_
         public KirjautuminenForm()
         {
             InitializeComponent();
+            SalasanaTB.PasswordChar = '*';
         }
 
         private void KirjautumisBT_Click(object sender, EventArgs e)
@@ -25,13 +26,13 @@ namespace Hotelli__Oma_
             DataTable taulu = new DataTable();
             MySqlCommand command = new MySqlCommand();
             MySqlDataAdapter adapteriloinen = new MySqlDataAdapter();
-            String query = "SELECT Etunimi, Sukunimi FROM asujat WHERE Etunimi = @en AND Sukunimi = @sn";
+            String query = "SELECT Käyttäjänimi, Salasana FROM asujat WHERE Käyttäjänimi = @kn AND Salasana = @sl";
 
             command.CommandText = query;
             command.Connection = tietokantaan.otaYhteys();
 
-            command.Parameters.Add("@en", MySqlDbType.VarChar).Value = KtunnusTB.Text;
-            command.Parameters.Add("@sn", MySqlDbType.VarChar).Value = SalasanaTB.Text;
+            command.Parameters.Add("@kn", MySqlDbType.VarChar).Value = KtunnusTB.Text;
+            command.Parameters.Add("@sl", MySqlDbType.VarChar).Value = SalasanaTB.Text;
 
             adapteriloinen.SelectCommand = command;
             adapteriloinen.Fill(taulu);

@@ -44,6 +44,10 @@ namespace Hotelli__Oma_
             this.PaivitysBT = new System.Windows.Forms.Button();
             this.PoistaBT = new System.Windows.Forms.Button();
             this.Tyhjenna = new System.Windows.Forms.Button();
+            this.SalasanaTB = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.KtunnusTB = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.TietoboksiDG)).BeginInit();
             this.SuspendLayout();
             // 
@@ -198,12 +202,54 @@ namespace Hotelli__Oma_
             this.Tyhjenna.UseVisualStyleBackColor = true;
             this.Tyhjenna.Click += new System.EventHandler(this.Tyhjenna_Click);
             // 
+            // SalasanaTB
+            // 
+            this.SalasanaTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.SalasanaTB.Location = new System.Drawing.Point(647, 179);
+            this.SalasanaTB.Name = "SalasanaTB";
+            this.SalasanaTB.Size = new System.Drawing.Size(100, 31);
+            this.SalasanaTB.TabIndex = 19;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.BackColor = System.Drawing.Color.Red;
+            this.label4.Font = new System.Drawing.Font("Ravie", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(623, 146);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(143, 30);
+            this.label4.TabIndex = 18;
+            this.label4.Text = "Salasana";
+            // 
+            // KtunnusTB
+            // 
+            this.KtunnusTB.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.KtunnusTB.Location = new System.Drawing.Point(440, 180);
+            this.KtunnusTB.Name = "KtunnusTB";
+            this.KtunnusTB.Size = new System.Drawing.Size(100, 31);
+            this.KtunnusTB.TabIndex = 17;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.Red;
+            this.label7.Font = new System.Drawing.Font("Ravie", 15.75F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(420, 147);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(132, 30);
+            this.label7.TabIndex = 16;
+            this.label7.Text = "Ktunnus";
+            // 
             // ASIAKKAAT
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Red;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.SalasanaTB);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.KtunnusTB);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.Tyhjenna);
             this.Controls.Add(this.PoistaBT);
             this.Controls.Add(this.PaivitysBT);
@@ -245,5 +291,9 @@ namespace Hotelli__Oma_
         private System.Windows.Forms.Button PaivitysBT;
         private System.Windows.Forms.Button PoistaBT;
         private System.Windows.Forms.Button Tyhjenna;
+        private System.Windows.Forms.TextBox SalasanaTB;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox KtunnusTB;
+        private System.Windows.Forms.Label label7;
     }
 }

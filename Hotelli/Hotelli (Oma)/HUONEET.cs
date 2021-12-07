@@ -112,5 +112,20 @@ namespace Hotelli__Oma_
             HuonetyyppinumeroTB.Text = HuoneetDG.CurrentRow.Cells[1].Value.ToString();
             PUHTB.Text = HuoneetDG.CurrentRow.Cells[2].Value.ToString();
         }
+
+        private void KylläRBT_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PUHTB_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void HuoneetDG_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }

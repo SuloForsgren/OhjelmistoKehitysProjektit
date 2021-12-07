@@ -57,15 +57,17 @@ namespace Hotelli__Oma_
             String snimi = SNTB.Text;
             String puhelin = PUHTB.Text;
             String email = EMAILTB.Text;
+            String ktunnus = KtunnusTB.Text;
+            String salasana = SalasanaTB.Text;
 
 
-            if (enimi.Trim().Equals("") || snimi.Trim().Equals("") || puhelin.Trim().Equals("") || email.Trim().Equals(""))
+            if (enimi.Trim().Equals("") || snimi.Trim().Equals("") || puhelin.Trim().Equals("") || email.Trim().Equals("") || ktunnus.Trim().Equals("") || salasana.Trim().Equals(""))
             {
                 MessageBox.Show("Virhe - vaaditut kentät - etu ja sukunimi, puhelin ja sähköposti", "Tyhjä kenttä", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-                Boolean lisaaAsiakas = asiakas.lisaaAsiakas(enimi, snimi, puhelin, email);
+                Boolean lisaaAsiakas = asiakas.lisaaAsiakas(enimi, snimi, puhelin, email, ktunnus, salasana);
                 if (lisaaAsiakas)
                 {
                     MessageBox.Show("Uusi asiakas lisätty onnistuneesti", "Asiakkaan lisäys", MessageBoxButtons.OK, MessageBoxIcon.Information);

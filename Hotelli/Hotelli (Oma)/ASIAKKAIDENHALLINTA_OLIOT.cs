@@ -13,17 +13,19 @@ namespace Hotelli__Oma_
         YHDISTA yhteys = new YHDISTA();
 
         //Asiakkaan lisäys hotelliin
-        public bool lisaaAsiakas(String enimi, String snimi, String puh, String email)
+        public bool lisaaAsiakas(String enimi, String snimi, String puh, String email, String ktunnus, String salasana)
         {
             MySqlCommand komento = new MySqlCommand();
-            String lisayskysely = "INSERT INTO asujat " + "(Etunimi, Sukunimi, Puhelinnumero, sähköposti) " +
-                "VALUES (@en,@sn,@puh,@ema); ";
+            String lisayskysely = "INSERT INTO asujat " + "(Etunimi, Sukunimi, Puhelinnumero, sähköposti, Käyttäjänimi, Salasana) " +
+                "VALUES (@en,@sn,@puh,@ema,@ktu,@sal); ";
             komento.CommandText = lisayskysely;
             komento.Connection = yhteys.otaYhteys();
             komento.Parameters.Add("@en", MySqlDbType.VarChar).Value = enimi;
             komento.Parameters.Add("@sn", MySqlDbType.VarChar).Value = snimi;
             komento.Parameters.Add("@puh", MySqlDbType.VarChar).Value = puh;
             komento.Parameters.Add("@ema", MySqlDbType.VarChar).Value = email;
+            komento.Parameters.Add("@ktu", MySqlDbType.VarChar).Value = ktunnus;
+            komento.Parameters.Add("@sal", MySqlDbType.VarChar).Value = salasana;
 
             yhteys.avaaYhteys();
             if (komento.ExecuteNonQuery() == 1)
