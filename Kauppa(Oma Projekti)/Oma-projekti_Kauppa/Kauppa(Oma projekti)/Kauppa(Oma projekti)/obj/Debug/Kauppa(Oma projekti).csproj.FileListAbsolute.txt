@@ -1,0 +1,33 @@
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\Kauppa(Oma projekti).exe.config
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\Kauppa(Oma projekti).exe
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\Kauppa(Oma projekti).pdb
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa(Oma projekti).csproj.AssemblyReference.cache
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.Properties.Resources.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa(Oma projekti).csproj.GenerateResource.cache
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa(Oma projekti).csproj.CoreCompileInputs.cache
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa(Oma projekti).exe
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa(Oma projekti).pdb
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa(Oma projekti).exe.config
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.OstosSivu.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\MySql.Data.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\Google.Protobuf.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\ZstdNet.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\BouncyCastle.Crypto.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\Ubiety.Dns.Core.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\System.Memory.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\System.Buffers.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\K4os.Compression.LZ4.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\K4os.Hash.xxHash.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\System.Numerics.Vectors.dll
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\bin\Debug\MySql.Data.xml
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa(Oma projekti).csproj.CopyComplete
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.LoadingScreen.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.Ylläpitosivu.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.Asiakkaiden_hallinta.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.Aloitus.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.AsiakasLogin.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.LoginDevFM.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.OhjelmanLopetusRuutu.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.Kauppa.resources
+F:\Ohjelmointi\C#\Projektit\Oma-projekti_Kauppa\Kauppa(Oma projekti)\Kauppa(Oma projekti)\obj\Debug\Kauppa_Oma_projekti_.TilausVahvistus.resources
